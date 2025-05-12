@@ -7,7 +7,7 @@
 
 Para esse projeto eu estou utilizando as seguintes tecnologias:
 - [Next](https://react.dev/learn)
-- [Shadcn-ui]([https://openweathermap.org](https://ui.shadcn.com/))
+- [Shadcn-ui](https://ui.shadcn.com/)
 
 ### 1- Exercise where I replicate the team members card from the shadcn-ui documentation
 
