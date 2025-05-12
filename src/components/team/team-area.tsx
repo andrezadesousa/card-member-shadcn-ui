@@ -18,7 +18,7 @@ export const TeamArea = () => {
           Invite your team members to collaborate
         </CardDescription>
       </CardHeader>
-      <CardContent className="flex flex-col gap-4">
+      <CardContent className="flex flex-col gap-5">
         {members.map((member) => (
           <TeamItem key={member.id} data={member} />
         ))}
